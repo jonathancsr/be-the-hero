@@ -7,4 +7,9 @@ Para instalar as dependecias
 ```json
   yarn or npm install
 ```
-Para rodar o projeto e nescessario iniciar o backend e o front:
+Para rodar o projeto e nescessario iniciar o backend deixar rodando e abrir um novo terminal para rodar o front com o comando:
+```json
+  yarn start or npm run start
+```
+
+![imagem da login scren do projeto](be-the-hero.png)
