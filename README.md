@@ -12,4 +12,4 @@ Para rodar o projeto e nescessario iniciar o backend deixar rodando e abrir um n
   yarn start or npm run start
 ```
 
-![imagem da login scren do projeto](be-the-hero.png)
+![imagem da login scren do projeto](be-the-hero/be-the-hero.png)
